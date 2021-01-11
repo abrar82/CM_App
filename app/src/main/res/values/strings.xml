@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Community Management</string>
+    <string name="facebook_app_id">423137792192857</string>
+    <string name="fb_login_protocol_scheme">fb423137792192857</string>
+    <string name="web_clientId">1056317244741-4fisjsfl95edof1ej433gj1r0pe4bka6.apps.googleusercontent.com</string>
+</resources>
